@@ -6,6 +6,8 @@ This microsite gives a sneak peek into the app's vision, core features, and invi
 
 ## 🌈 About MOOD
 
+https://moodapp.carrd.co/#
+
 MOOD is a mobile app designed to help users:
 - Express emotions honestly (RealTalk Mode)
 - Track their mood with emoji-based selectors
